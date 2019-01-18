@@ -2,12 +2,11 @@
 
 It uses "Individual household electric power consumption Data Set" dataset from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. 
 
-The goal of the project is to examine how household energy usage varies over a 2-day period in February, 2007 and reconstruct the plot provided in [https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1)
+The goal of the project is to examine how household energy usage varies over a 2-day period in February, 2007 and to reconstruct the plots provided in [https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1).
 
-Here is the data for the project:
- <b>Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
+Here is the data for the project: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
 
-It is assumed that the dataset in already downloaded before running the R scripts in this repository.
+It is assumed that the dataset is already downloaded before running the R scripts in this repository.
 
 ## Files
 This repository contains the following files:
